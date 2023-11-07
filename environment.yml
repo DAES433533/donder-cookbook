@@ -1,4 +1,4 @@
-name: cookbook-dev
+name: air pollution
 channels:
   - conda-forge
 dependencies:
