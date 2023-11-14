@@ -1,21 +1,25 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# (Replace_with_your_title) Cookbook
+# Non-Specific Air Pollution Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
+This Project Pythia Cookbook covers some sort of utilization of various Python packages to visualize (maybe even in an interactive way?) air pollution data...
 
 ## Motivation
 
 (Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
+Of course, this will be usefull because we breath air. Pollution is also a big deal. Also, learing how to do these sorts of things with these sorts of data are an invaluable skill in the geosciences. You'll want to learn this.
+
 
 ## Authors
 
 [First Author](@first-author), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
+[Adam Deitsch](@AMDeitsch), [Sam DeSousa](@wxsamdes), [Kayla Lewis](@KaylaLewis23), [Anadhi Sharma](@zee290)
 
+More stuff will be added later...
 ### Contributors
 
 <a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
@@ -23,6 +27,8 @@ This Project Pythia Cookbook covers ... (replace `...` with the main subject of 
 </a>
 
 ## Structure
+
+This has not been determined yet...
 
 (State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
 
