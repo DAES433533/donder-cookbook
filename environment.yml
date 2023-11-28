@@ -1,4 +1,4 @@
-name: air pollution
+name: Visualizing Data with EPA's Air Quality System (AQS) API
 channels:
   - conda-forge
 dependencies:
