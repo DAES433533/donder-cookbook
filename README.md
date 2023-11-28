@@ -1,23 +1,24 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# Non-Specific Air Pollution Cookbook
+# Visualizing Data with EPA's Air Quality System (AQS) API
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers some sort of utilization of various Python packages to visualize (maybe even in an interactive way?) air pollution data...
+This Project Pythia Cookbook covers ways to utilize the US EPA's AQS as a repository for air pollution data. Notebooks will go over topics related to accessing the data, plotting a time-series, making the time series interactive, plotting the data over a map, and making an interactive time-series map.
 
 ## Motivation
 
-(Add a few sentences stating why this cookbook will be useful. What skills will you, "the chef", gain once you have reached the end of the cookbook?)
-Of course, this will be usefull because we breath air. Pollution is also a big deal. Also, learing how to do these sorts of things with these sorts of data are an invaluable skill in the geosciences. You'll want to learn this.
-
+At the end of this Cookbook, you should have the skills to:
+- access the AQS using the EPA's "pyaqsapi" package
+- manipulate AQS data
+- plot AQS data from a spatiotemporal perspective
+- generate interactive air pollution figures
 
 ## Authors
 
-[First Author](@first-author), [Second Author](@second-author), etc. _Acknowledge primary content authors here_
-[Adam Deitsch](@AMDeitsch), [Sam DeSousa](@wxsamdes), [Kayla Lewis](@KaylaLewis23), [Anadhi Sharma](@zee290)
+[Adam Deitsch](https://github.com/AMDeitsch), [Sam DeSousa](https://github.com/wxsamdes), [Kayla Lewis](https://github.com/KaylaLewis23), [Anadhi Sharma](https://github.com/zee290)
 
 More stuff will be added later...
 ### Contributors
@@ -28,13 +29,16 @@ More stuff will be added later...
 
 ## Structure
 
-This has not been determined yet...
+This Cookbook will be broken into four sections.
 
-(State one or more sections that will comprise the notebook. E.g., _This cookbook is broken up into two main sections - "Foundations" and "Example Workflows."_ Then, describe each section below.)
+### Section 1 ("AQS Data Foundations")
 
-### Section 1 ( Replace with the title of this section, e.g. "Foundations" )
+This section will cover we will cover:
 
-(Add content for this section, e.g., "The foundational content includes ... ")
+1. Accessing data from the AQS
+2. Exploring the format of the data
+3. Preparing the data for visualization
+4. Generating a time-series plot
 
 ### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
 
