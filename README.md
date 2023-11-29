@@ -8,6 +8,8 @@
 
 This Project Pythia Cookbook covers ways to utilize the US EPA's AQS as a repository for air pollution data. Notebooks will go over topics related to accessing the data, plotting a time-series, making the time series interactive, plotting the data over a map, and making an interactive time-series map.
 
+You will need an active email address for an API key to use this Cookbook.
+
 ## Motivation
 
 At the end of this Cookbook, you should have the skills to:
@@ -20,7 +22,7 @@ At the end of this Cookbook, you should have the skills to:
 
 [Adam Deitsch](https://github.com/AMDeitsch), [Sam DeSousa](https://github.com/wxsamdes), [Kayla Lewis](https://github.com/KaylaLewis23), [Anadhi Sharma](https://github.com/zee290)
 
-More stuff will be added later...
+
 ### Contributors
 
 <a href="https://github.com/ProjectPythia/cookbook-template/graphs/contributors">
@@ -33,16 +35,32 @@ This Cookbook will be broken into four sections.
 
 ### Section 1 ("AQS Data Foundations")
 
-This section will cover we will cover:
-
 1. Accessing data from the AQS
 2. Exploring the format of the data
 3. Preparing the data for visualization
 4. Generating a time-series plot
 
-### Section 2 ( Replace with the title of this section, e.g. "Example workflows" )
+### Section 2 ( Interactive Time Series Title )
 
-(Add content for this section, e.g., "Example workflows include ... ")
+1. 
+1. 
+1. 
+1. 
+
+
+### Section 3 ( Map Plot? )
+
+1. 
+1. 
+1. 
+1. 
+
+### Section 4 ( Interactive/Met Map Plot? )
+
+1. 
+1. 
+1. 
+1. 
 
 ## Running the Notebooks
 
