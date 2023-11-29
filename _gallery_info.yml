@@ -1,6 +1,13 @@
 thumbnail: thumbnail.png
 tags:
   domains:
-    - sampledomain
+    - Air Quality
+    - Air Pollution
+    - EPA AQS
   packages:
-    - samplepackage
+    - datetime
+    - matplotlib
+    - numpy
+    - pandas
+    - pyaqsapi
+    - seaborn
