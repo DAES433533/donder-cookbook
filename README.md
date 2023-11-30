@@ -6,7 +6,7 @@
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ways to utilize the US EPA's AQS as a repository for air pollution data. Notebooks will go over topics related to accessing the data, plotting a time-series, making the time series interactive, plotting the data over a map, and making an interactive time-series map.
+This Project Pythia Cookbook covers ways to utilize the [US EPA's AQS](https://www.epa.gov/aqs) as a repository for air pollution data. Notebooks will go over topics related to accessing the data, plotting a time-series, making the time series interactive, plotting the data over a map, and making an interactive time-series map.
 
 You will need an active email address for an API key to use this Cookbook.
 

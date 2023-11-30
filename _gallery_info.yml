@@ -5,9 +5,5 @@ tags:
     - Air Pollution
     - EPA AQS
   packages:
-    - datetime
-    - matplotlib
-    - numpy
     - pandas
     - pyaqsapi
-    - seaborn
