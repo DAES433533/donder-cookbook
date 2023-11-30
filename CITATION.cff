@@ -21,6 +21,6 @@ authors:
     given-names: Sam
     orcid: https://orcid.org/0009-0001-6642-1348 # optional
     website: https://github.com/wxsamdes # optional
-    affiliation: University at Albany (State University of New York) # optional
-title: "Non-Specific Air Pollution Cookbook"
-abstract: "A sample cookbook description."
+    affiliation: University at Albany Atmospheric Science (ASRC); NOAA Cooperative Sciences and Meteorology (NCAS-M)
+title: "AQS Interactive Time Series"
+abstract: "This is the second notebook in the series. In this notebook we will be analyzing Air Quality System data by using an interactive time series"
