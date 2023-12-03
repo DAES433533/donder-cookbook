@@ -1,4 +1,4 @@
-name: air pollution
+name: AQS-Cookbook-Dev
 channels:
   - conda-forge
 dependencies:
