@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Visualizing Data with EPAs Air Quality System (AQS) API
-author: Adam Deitsch, Sam DeSousa, Anadhi Sharma, Kayla Lewis 
+author: Deitsch,Adam , DeSousa,Sam  , Lewis,Kayla , Sharma,Anadhi 
 logo: notebooks/images/logos/pythia_logo-white-rtext.svg #tried to get logo, not working
 copyright: "2023"
 
