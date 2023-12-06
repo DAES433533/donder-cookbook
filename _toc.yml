@@ -6,4 +6,7 @@ parts:
       - file: notebooks/how-to-cite
   - caption: Introduction
     chapters:
-      - file: notebooks/notebook-template
+      - file: notebooks/Notebook 1.ipynb
+      - file: notebooks/Notebook2.ipynb
+      -file: notebooks/notebook3.ipynb 
+      -file: notebooks/sd_airquality.ipynb         
