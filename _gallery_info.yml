@@ -1,6 +1,9 @@
 thumbnail: thumbnail.png
 tags:
   domains:
-    - sampledomain
+    - Air Quality
+    - Air Pollution
+    - EPA AQS
   packages:
-    - samplepackage
+    - pandas
+    - pyaqsapi
