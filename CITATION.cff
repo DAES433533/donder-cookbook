@@ -4,23 +4,23 @@ authors:
   # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
   - family-names: Lewis
     given-names: Kayla
-    orcid: https://orcid.org/0009-0006-2030-1873 # optional
-    website: https://github.com/KaylaLewis23 # optional
-    affiliation: University at Albany (State University of New York) # optional
+    orcid: https://orcid.org/0009-0006-2030-1873
+    website: https://github.com/KaylaLewis23
+    affiliation: University at Albany (State University of New York) 
   - family-names:Deitsch
     given-names: Adam
-    orcid: https://orcid.org/0000-0002-5009-1989 # optional
-    website: https://github.com/AMDeitsch # optional
-    affiliation: University at Albany (State University of New York) # optional
+    orcid: https://orcid.org/0000-0002-5009-1989 
+    website: https://github.com/AMDeitsch
+    affiliation: University at Albany Atmospheric Sciences Research Center (ASRC); NOAA Cooperative Sceinces and Meteorology (NCAS-M)
   - family-names: Sharma
     given-names: Anadhi
-    orcid: https://orcid.org/0009-0003-9421-2759 # optional
-    website: https://github.com/zee790 # optional
-    affiliation: University at Albany (State University of New York) # optional
+    orcid: https://orcid.org/0009-0003-9421-2759
+    website: https://github.com/zee790 
+    affiliation: University at Albany (State University of New York) 
   - family-names: DeSousa
     given-names: Sam
-    orcid: https://orcid.org/0009-0001-6642-1348 # optional
-    website: https://github.com/wxsamdes # optional
-    affiliation: University at Albany (State University of New York) # optional
-title: "Non-Specific Air Pollution Cookbook"
-abstract: "A sample cookbook description."
+    orcid: https://orcid.org/0009-0001-6642-1348 
+    website: https://github.com/wxsamdes 
+    affiliation: University at Albany Atmospheric Science (ASRC); NOAA Cooperative Sciences and Meteorology (NCAS-M)
+title: "Visualizing Data with EPA's Air Quality System (AQS) API"
+abstract: "Air quality data are an important aspect of both atmospheric and enviornmetnal sciences. Understanding the concentrations of a particuar matter and chemical species like O3 and NOx can be useful for air pollution analysis from both the physical science and health science perspectives."
