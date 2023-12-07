@@ -1,14 +1,17 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
+<img src="https://images.unsplash.com/photo-1686179225818-c07909cd2911?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width=300, alt="Wildfire smoke over New York City (June 7, 2023)"></img><p>
+Photo by <a href="https://unsplash.com/@ahmerkalam?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Ahmer Kalam</a> on <a href="https://unsplash.com/photos/a-foggy-city-skyline-with-the-sun-in-the-distance-Reuk1nmutFI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></p>
+
 # Visualizing Data with EPA's Air Quality System (AQS) API
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ways to utilize the [US EPA's AQS](https://www.epa.gov/aqs) as a repository for air pollution data. Notebooks will go over topics related to accessing the data, plotting a time-series, making the time series interactive, plotting the data over a map, and making an interactive time-series map.
+This Project Pythia Cookbook will cover ways to utilize the [US EPA's AQS](https://www.epa.gov/aqs) as a repository for air pollution data. Notebooks will go over topics related to accessing the data, plotting a time-series, making the time series interactive, plotting the data over a map, and making an interactive time-series map.
 
-You will need an active email address for an API key to use this Cookbook.
+<b>You will need an active email address for an API key to use this Cookbook.</b>
 
 ## Motivation
 
