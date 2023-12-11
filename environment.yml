@@ -5,6 +5,26 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - jupyter_server
+  - geopandas
+  - geoviews
+  - zarr
+  - metpy
+  - hvplot
+  - tox
+  - build
+  - pep517
+  - requests
+  - setuptools>=42
+  - sphinxcontrib-apidoc
+  - sphinxcontrib-spelling
+  - sphinx_rtd_theme
+  - numpydoc 
+  - certifi
+  - cryptography
+  - ipyleaflet
+  - seaborn
   - pip
   - pip:
       - sphinx-pythia-theme
+      - pyairnow
+      - pyaqsapi
