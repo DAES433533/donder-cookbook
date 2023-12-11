@@ -23,7 +23,7 @@ At the end of this Cookbook, you should have the skills to:
 
 ## Authors
 
-[Adam Deitsch](https://github.com/AMDeitsch), [Sam DeSousa](https://github.com/wxsamdes), [Kayla Lewis](https://github.com/KaylaLewis23), [Anadhi Sharma](https://github.com/zee290)
+[Adam Deitsch](https://github.com/AMDeitsch), [Sam DeSousa](https://github.com/wxsamdes), [Kayla Lewis](https://github.com/KaylaLewis23), [Anadhi Sharma](https://github.com/zee790)
 
 
 ### Contributors
